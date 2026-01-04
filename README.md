@@ -2,6 +2,17 @@
 
 Allows Twitch mods to display popup text on the stream via chat commands
 
+## FORK NOTICE
+
+This repository is a **fork** of **DaftLimmy/TwitchPopups**.
+
+- Original project: https://github.com/DaftLimmy/TwitchPopups  
+- Full credit for the original work goes to the original author.  
+- This fork exists **solely to keep the project maintained and compatible** with current Twitch / browser / OBS behaviour.  
+- No functional changes are intended beyond maintenance and fixes.
+
+Licence and attribution remain unchanged.
+
 ## COMMAND LIST
 
 - !alert: will display whatever text comes after the !alert command
