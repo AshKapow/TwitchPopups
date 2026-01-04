@@ -21,7 +21,7 @@ Licence and attribution remain unchanged.
 
 ## DOWNLOAD
 
-The latest version of TwitchPopups can be found [as a zip archive here](https://github.com/DaftLimmy/TwitchPopups/archive/master.zip)
+The latest version of TwitchPopups can be found [as a zip archive here](https://github.com/AshKapow/TwitchPopups/archive/master.zip)
 
 ## INSTRUCTIONS
 
